@@ -1,4 +1,4 @@
-### IAM USer and Groups
+### IAM User and Groups
 
 IAM --> Users -->  ***Here we see the users accounts.*** 
 
@@ -52,6 +52,7 @@ Review and Vreate:
 
 --->>> Create User
 
+----
 
 ##  Theme - Troubleshooting about credentials
 
