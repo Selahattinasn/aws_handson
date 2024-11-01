@@ -10,14 +10,14 @@ IAM  --> User_Groups--> "Create User Groups:
     - Attach permission policies: "Adminsitrator Access" 
                     -->>> Create Group
 
-*** Now we habe in Group with Adminsitrator Permissions attached to it.***
+Now we habe in Group with Adminsitrator Permissions attached to it.
 
 #### Creating User
 
-IAM --> Users --> "Create User" : 
+IAM --> Users --> "Create User"
     - User Name:  Mirmiray 
         Check heer the "Provide user access to the AWS Management Console" (Actually its optional) By doing that we can access also via  Console only programmatic access.
----
+
         At this point 2  Options for User Type  will appear. 
           + Specify User in Identity Center
           + I want to create an IAM User ;  --> We ll chec this options
