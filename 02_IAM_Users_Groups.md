@@ -53,4 +53,14 @@ Review and Vreate:
 --->>> Create User
 
 
+##  Theme - Troubleshooting about credentials
+
+### Step 1 - What if you forget the password 
+
+- Click User>>>>> Select user---->>Security Credential--->> Console Password---> Click "Manage"--->>Set  password >>>> Custom password
+
+### Step 2-  What if you forgot your secret access keys key 
+
+  Click User>>>>> Select user---->>Security Credential--->> Go Access keys ---> Deactivate---->> Delete --->>>Create new 
+
     
