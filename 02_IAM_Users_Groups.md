@@ -33,8 +33,8 @@ IAM--> Users--> "Create User"
     - Auto Generate Pasword
     - Custom Password --> Better oprion
     Check the option "User Must Create a new password after next  login"
-
 --->>> Next
+
 
 ---- 
 Set Permissions:
@@ -53,6 +53,13 @@ Review and Vreate:
 --->>> Create User
 
 ----
+!!! At this point we can copy the "Console sign in details: 
+- Sign in user URL
+- User name
+- Password
+-->>>>  REturn to users list
+***Now we can login with this new User"***
+ ---- 
 
 ##  Theme - Troubleshooting about credentials
 
