@@ -28,3 +28,5 @@ We can test the applice actions for specific sercive for user by selecting servi
 ![IAM5](images/IAM5.png)  
 ---
 ![IAM6](images/IAM6.png)  
+
+***Policy Simulator is very usefaull, especially when we ant to see the results/eefects of our policy settings.***
