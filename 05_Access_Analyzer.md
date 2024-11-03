@@ -1,4 +1,4 @@
-## Access Amalyzer
+## Access Analyzer
 
 at first time, Access Analyzer needs to be enabled.       
 
