@@ -57,20 +57,20 @@ This geremates policy based on "cloud trail" evenss.
 
 Steps: 
 1. Choose a time frame: 
-![IAM14](IAM11/IAM14.png)
+![IAM14](images/IAM14.png)
 2. Choose trail
-![IAM15](IAM11/IAM15.png)
+![IAM15](images/IAM15.png)
 3. Specify Region
-![IAM16](IAM11/IAM16.png)
+![IAM16](images/IAM16.png)
 4. we can choose an existing sercive roleto generate policy
-![IAM17](IAM11/IAM17.png)
+![IAM17](images/IAM17.png)
 5. Clik on "Generate Ploicy
 
 for exmple tehis is  a generated poliy:
-![IAM18](IAM11/IAM18.png)
+![IAM18](images/IAM18.png)
 lets view it 
-![IAM19](IAM11/IAM19.png)
+![IAM19](images/IAM19.png)
 in the review  we can see teh applicable actions 
-![IAM20](IAM11/IAM20.png)
+![IAM20](images/IAM20.png)
 after two times clicking on next, we can see the policy json  template. We can customize it through editor. 
-![IAM21](IAM11/IAM21.png)
+![IAM21](images/IAM21.png)
