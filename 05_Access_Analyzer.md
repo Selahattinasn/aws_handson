@@ -21,17 +21,17 @@ And in the settings here you can see the access analyzer administrator and you c
 
 delegated administrator as well.
 
-![IAM9](IAM9/IAM9.png)
+![IAM9](images/IAM9.png)
 
 -----
 
 ## Credential Reports
 
 we can dolwnload report  
-![IAM10](IAM10/IAM10.png)
+![IAM10](images/IAM10.png)
 
 it look somthing so 
-![IAM11](IAM11/IAM11.png)
+![IAM11](images/IAM11.png)
 
 Quite a bit Infor tounderstahnd how user is setted for security perspective. 
 
@@ -41,14 +41,14 @@ Quite a bit Infor tounderstahnd how user is setted for security perspective.
 
 ## Policy Simulator
 
-![IAM12](IAM11/IAM12.png)
+![IAM12](images/IAM12.png)
 
 
 ## Policy Generator
 
 ROles --> "Select a role" --> 
 
-![IAM13](IAM11/IAM13.png)
+![IAM13](images/IAM13.png)
 *at this point we see multiple policiwes appliad to this role*
 
 *at the bottom see the button fo "Generate Poliy"*
