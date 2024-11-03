@@ -23,7 +23,7 @@ lets choose user nuray
 We can see the policy state of userr nuray. 
 
 ![IAM4](images/IAM4.png)
-----
+---
 We can test the applice actions for specific sercive for user by selecting service and action, and then run a test simulation.   
 ![IAM5](images/IAM5.png)  
 ---
