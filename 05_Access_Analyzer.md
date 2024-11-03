@@ -56,21 +56,29 @@ ROles --> "Select a role" -->
 This geremates policy based on "cloud trail" evenss. 
 
 Steps: 
-1. Choose a time frame: 
+
+1. Choose a time frame:   
 ![IAM14](images/IAM14.png)
+
 2. Choose trail
 ![IAM15](images/IAM15.png)
-3. Specify Region
-![IAM16](images/IAM16.png)
-4. we can choose an existing sercive roleto generate policy
-![IAM17](images/IAM17.png)
-5. Clik on "Generate Ploicy
 
-for exmple tehis is  a generated poliy:
+3. Specify Region  
+![IAM16](images/IAM16.png)
+
+4. we can choose an existing sercive roleto generate policy  
+![IAM17](images/IAM17.png)
+
+5. Clik on "Generate Plicy  
+
+for exmple tehis is  a generated poliy:  
 ![IAM18](images/IAM18.png)
-lets view it 
+
+lets view it   
 ![IAM19](images/IAM19.png)
-in the review  we can see teh applicable actions 
+
+in the review  we can see teh applicable actions   
 ![IAM20](images/IAM20.png)
-after two times clicking on next, we can see the policy json  template. We can customize it through editor. 
+
+after two times clicking on next, we can see the policy json  template. We can customize it through editor.   
 ![IAM21](images/IAM21.png)
