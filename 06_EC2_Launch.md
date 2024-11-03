@@ -23,40 +23,39 @@ Snapsot are actually taken from live instane  as a kind of backup.
 
  ![EC2_1](images/EC2_1.png)  
 
-    - Name:   
+- Name:   
 
-     ![EC2_2](images/EC2_2.png) 
+![EC2_2](images/EC2_2.png) 
 
-    - AMI:  
+- AMI:  
 
-     ![EC2_3](images/EC2_3.png) 
+![EC2_3](images/EC2_3.png) 
 
 
-    - Instance Type:  
+- Instance Type:  
 
-     ![EC2_4](images/EC2_4.png)  
+![EC2_4](images/EC2_4.png)  
 
-    - Keypair:  
+- Keypair:  
 
-     ![EC2_5](images/EC2_5.png) 
+![EC2_5](images/EC2_5.png) 
 
-    - Network Setting;  
+- Network Setting;  
 
-     ![EC2_6](images/EC2_6.png) 
+![EC2_6](images/EC2_6.png) 
 
-        - Netowrk:  
+- Netowrk:  
 
-        - Subnet:  
+- Subnet:  
 
-        - Auto Asiign IP:  
+- Auto Asiign IP:  
 
-        - Firewall (Security Group):  
+- Firewall (Security Group):  
 
-    - Configue Storage: 8GB  
+- Configue Storage: 8GB  
+- Advanced Details:  
 
-    - Advanced Details:  
-
-    ![EC2_7](images/EC2_7.png) 
+![EC2_7](images/EC2_7.png) 
     --->>> Launch Isntance 
 
     *We can see the informations by clicking on the instance.*
