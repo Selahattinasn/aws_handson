@@ -6,7 +6,7 @@ Stepa:
 
 Insance Type defines the Hardware Profile costs. 
 
-![cronjob_format](images/crontab_1.png)
+
 
 2. Selct an AMI:
 
@@ -59,22 +59,46 @@ Snapsot are actually taken from live instane  as a kind of backup.
     --->>> Launch Isntance 
 
     *We can see the informations by clicking on the instance.*
+
+
 ### Informations Tabs for an EC2:
-- Details
-- Status and Alarm
-- Monitoring
-- Security
-- Networking
-- Storage
-- Tags
+
+![EC2_8](images/EC2_8.png) 
+
+- Details  
+
+![EC2_9](images/EC2_9.png) 
+
+
+- Status and Alarm  
+
+![EC2_10](images/EC2_10.png) 
+
+- Monitoring  
+
+![EC2_11](images/EC2_11.png) 
+
+- Security  
+
+![EC2_12](images/EC2_12.png) 
+
+- Networking  
+![EC2_13](images/EC2_13.png) 
+- Storage  
+![EC2_14](images/EC2_14.png) 
+- Tags  
+![EC2_15](images/EC2_15.png) 
 
 ---
 
 
 ## Launching Windows Server
 
-The chritical settings here are:
+The chritical settings here are:  
 
 - selecht as AMI of Windows Server
+![EC2_16](images/EC2_16.png)   
+
 - select always a key pair.
 - set n Security Group that enable RDP.  Because connecting an Windows server is just over Remote Desktop Protocol. RDP from Port 3389
+![EC2_17](images/EC2_17.png)   
